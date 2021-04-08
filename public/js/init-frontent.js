@@ -49,7 +49,7 @@ function closeDropdown(e) {
 }
 
 function showPath() {
-    let resultMin = GRAPH.findPath(),
+    let resultMin = GRAPH.findMinPath(),
         resultMax = GRAPH.findMaxPath();
 
     $('.result_min > .path').text(resultMin[0]);
