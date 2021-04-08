@@ -11,6 +11,7 @@ Front-end part in `/public/js`
 <br>
 Algorithm logic in `/public/js/algorithm.js`
 <br>
+Intermediate paths `intermediate_paths.txt`
 
 Requirement:
 - PHP v7.2+
